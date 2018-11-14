@@ -23,7 +23,7 @@ font-family: 'Rajdhani', sans-serif;
    .input-field input:focus + label {
    color: orange !important;
  }
- 
+
  .row .input-field input:focus {
    border-bottom: 1px solid orange !important;
    box-shadow: 0 1px 0 0 orange !important
@@ -45,7 +45,7 @@ font-family: 'Rajdhani', sans-serif;
           <div class="image-top">
           <img src="assets/images/login.png">
         </div>
-      
+
         <div class="row">
           <div class="input-field col s12">
             <label for="email">Username</label>
@@ -59,19 +59,19 @@ font-family: 'Rajdhani', sans-serif;
       </div>
       <div class="card-action right-align">
         <input type="submit" name="submit" class="btn orange waves-effect waves-light" value="Login"> <br><br>
-        Not yet register? Register <a href="register.php" target="_blank"> here! </a>
+        Not yet registerr? Register <a href="register.php" target="_blank"> here! </a>
       </div>
     </form>
   </div>
 </div>
 </div>
 
-  
+
   <script src="assets/js/jquery-2.2.1.min.js"></script>
   <script src="assets/js/init.js"></script>
   <script src="assets/js/materialize.min.js"></script>
   <script src="assets/js/materialize.js"></script>
-  
+
 
 </body>
 
